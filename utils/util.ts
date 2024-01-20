@@ -1,7 +1,7 @@
 export class Util {
   
   static isScript(file: string) {
-    return file.endsWith('.ts');
+    return file.endsWith(".ts");
   }
 
   static async delay(ms: number) {

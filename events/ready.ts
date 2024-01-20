@@ -1,6 +1,6 @@
 module.exports = {
-  event: 'ready',
+  event: "ready",
   async execute() {
-    console.log('Ready!');
+    console.log("Ready!");
   }
 };

@@ -1,7 +1,7 @@
-import { Client } from 'discord.js';
-import config from './config.json';
+import { Client } from "discord.js";
+import config from "./config.json";
 import dotenv from "dotenv";
-import { Manager } from './utils/manager';
+import { Manager } from "./utils/manager";
 
 dotenv.config();
 
