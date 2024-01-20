@@ -1,0 +1,2 @@
+# Discord.js Template
+## Typescript
